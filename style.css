@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Playfair Display SC', serif;
+    text-shadow: 5px 3px  orange;
+    text-align: center;
+}
+.nav {
+    list-style-type: none;
+    background-color: #003046;
+    padding: 1em;
+    overflow: hidden;
+    display: inline-flex;
+    align-content: center;
+    text-align: center;
+  }
+  
+  li a {
+    color: #f36573;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.3em;
+  }
+  li a {
+    text-decoration: none;
+    text-align: center;
+    padding: 5em;
+    font-size: 1.3em;
+  }
+  
+  li a:hover {
+    background-color: pink;
+    color: white;
+  }
